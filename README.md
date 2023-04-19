@@ -4,7 +4,7 @@ A compilation of all my work from CAS CS 210 at Boston University
 
 
 
-pS4b- The Assembly Calculator
+ps4b- The Assembly Calculator
 
 
 
